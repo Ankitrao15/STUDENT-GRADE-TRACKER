@@ -1,4 +1,4 @@
-# Student Grade Tracker (Core Java)
+#Student Grade Tracker (Core Java)
 
 A console-based student record management project built with Core Java and OOP.
 
